@@ -1,7 +1,7 @@
 # Hi there! I'm Nguyen Van Duc 👋
 **Software Engineer Intern | Backend & AI Enthusiast | NEU IT Student**
 
-I am a final-year IT student at **National Economics University (NEU)**. [cite_start]My focus lies in building scalable **Backend systems** and integrating **AI/Computer Vision** solutions into practical software products. I prioritize **System Logic**, **Data Integrity**, and **Business Workflows** in every project I develop.
+I am a final-year IT student at **National Economics University (NEU)**. My focus lies in building scalable **Backend systems** and integrating **AI/Computer Vision** solutions into practical software products. I prioritize **System Logic**, **Data Integrity**, and **Business Workflows** in every project I develop.
 
 ---
 
