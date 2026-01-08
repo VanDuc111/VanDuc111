@@ -30,7 +30,7 @@ I am a final-year IT student at **National Economics University (NEU)**. [cite_s
 ---
 
 ### 📊 GitHub Stats
-![Duc's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDuc111&show_icons=true&theme=radical)
+[![Duc's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VanDuc111&theme=react-dark)](https://github.com/VanDuc111)
 
 ---
 
